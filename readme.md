@@ -1,3 +1,3 @@
 ## images
 
-> https://cdn.jsdelivr.net/gh/staticImages/img@v1
+> https://cdn.jsdelivr.net/gh/staticImages/img@v1 
